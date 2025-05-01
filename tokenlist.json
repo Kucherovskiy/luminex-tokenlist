@@ -1,0 +1,20 @@
+{
+  "name": "Luminex Token List",
+  "logoURI": "https://raw.githubusercontent.com/Kucherovskiy/luminex-tokenlist/main/luminex-logo.png",
+  "timestamp": "2025-04-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 10143,
+      "address": "0xBc83D01C6B8980ccAa057c3aA8CE689297f4e657",
+      "name": "LUMINEX",
+      "symbol": "LUMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Kucherovskiy/luminex-tokenlist/main/luminex-logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
