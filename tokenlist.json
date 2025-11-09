@@ -5,7 +5,7 @@
   "tokens": [
     {
       "chainId": 10143,
-      "address": "0x4eb43d6227ae6867583140cF470860B268A3A4Ba",
+      "address": ""0x74568A1f4a5282b1320b89C7ED75fB42CfB4BA04",
       "name": "LUMINEX",
       "symbol": "LUMI",
       "decimals": 18,
@@ -18,3 +18,4 @@
     "patch": 0
   }
 }
+
